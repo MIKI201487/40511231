@@ -2,6 +2,11 @@ body {
     text-align: center;
 }
 
+h1 {
+   display: block;
+    padding: 10px 20px; 
+}
+
 div {
     display: inline-block;
 }
