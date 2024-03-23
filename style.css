@@ -144,11 +144,6 @@ body {
   color: #000000;
 }
 
-.hero-section .buttons .join a:hover {
-  background-color: #fff;
-  color: #000000;
-}
-
 /* Hamburger menu styles */
 #menu-toggle {
   display: none;
