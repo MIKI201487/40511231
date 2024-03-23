@@ -62,6 +62,8 @@ body {
 
 .navbar .buttons .btnLogin-popup:hover {
   color: #47b2e4;
+  background-color: #fff;
+  color: #000000;
 }
 
 .navbar .buttons .btnLogin-popup {
